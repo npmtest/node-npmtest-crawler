@@ -1,7 +1,7 @@
 # test coverage for  [crawler (v1.0.4)](https://github.com/bda-research/node-crawler)  [![npm package](https://img.shields.io/npm/v/npmtest-crawler.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-crawler) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-crawler.svg)](https://travis-ci.org/npmtest/node-npmtest-crawler)
 #### Crawler is a web spider written with Nodejs. It gives you the full power of jQuery on the server to parse a big number of pages as they are downloaded, asynchronously
 
-[![NPM](https://nodei.co/npm/crawler.png?downloads=true)](https://www.npmjs.com/package/crawler)
+[![NPM](https://nodei.co/npm/crawler.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/crawler)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-crawler/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-crawler/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-crawler/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-crawler/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-crawler/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-crawler/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-crawler/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-crawler/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-crawler/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-crawler/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-crawler%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-crawler/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-crawler/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-crawler/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-crawler/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-crawler%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-crawler/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-crawler/build/test-report.html](https://npmtest.github.io/node-npmtest-crawler/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-crawler/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-crawler/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-crawler/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-crawler/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-crawler/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-crawler/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-crawler/build/screenCapture.npmPackageListing.svg)
 
@@ -80,25 +86,20 @@
     "main": "./lib/crawler.js",
     "maintainers": [
         {
-            "name": "darrenqc",
-            "email": "darrenqc823@gmail.com"
+            "name": "darrenqc"
         },
         {
-            "name": "mike442144",
-            "email": "mike442144@hotmail.com"
+            "name": "mike442144"
         },
         {
-            "name": "paulvalla",
-            "email": "bonjour@pol.ninja"
+            "name": "paulvalla"
         },
         {
-            "name": "sylvinus",
-            "email": "sylvain@sylvainzimmer.com"
+            "name": "sylvinus"
         }
     ],
     "name": "crawler",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/bda-research/node-crawler.git"
