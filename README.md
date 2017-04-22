@@ -1,4 +1,7 @@
-# test coverage for  [crawler (v1.0.4)](https://github.com/bda-research/node-crawler)  [![npm package](https://img.shields.io/npm/v/npmtest-crawler.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-crawler) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-crawler.svg)](https://travis-ci.org/npmtest/node-npmtest-crawler)
+# npmtest-crawler
+
+#### basic test coverage for  [crawler (v1.0.4)](https://github.com/bda-research/node-crawler)  [![npm package](https://img.shields.io/npm/v/npmtest-crawler.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-crawler) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-crawler.svg)](https://travis-ci.org/npmtest/node-npmtest-crawler)
+
 #### Crawler is a web spider written with Nodejs. It gives you the full power of jQuery on the server to parse a big number of pages as they are downloaded, asynchronously
 
 [![NPM](https://nodei.co/npm/crawler.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/crawler)
@@ -107,7 +110,8 @@
     "scripts": {
         "test": "./node_modules/mocha/bin/mocha --reporter spec --bail --timeout 10000 tests/*.js"
     },
-    "version": "1.0.4"
+    "version": "1.0.4",
+    "bin": {}
 }
 ```
 
